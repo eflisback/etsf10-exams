@@ -6,7 +6,7 @@ In this repository, I've written one markdown document for each previous availab
 
 - Provided question descriptions are **bolded**
 - My tips are marked as quotation, like this:
-  >💡 This is a tip.
+  > 💡  This is a tip.
 - Answers, or other notes I would include in my answer, are written without particular styling
 
 ## 🤝 Contribution

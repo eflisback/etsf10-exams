@@ -9,6 +9,15 @@ In this repository, I've written one markdown document for each previous availab
   > 💡  This is a tip.
 - Answers, or other notes I would include in my answer, are written without particular styling
 
-## 🤝 Contribution
+## ⭐ Contributors
+
+- **Ebbe Flisbäck** - Creator & main contributor
+- With thanks to:
+  - Jesper Engberg
+  - Lovisa Löfgren
+  - Kaan Bür
+  - Olle Någård
+
+## 🤝 Further Contribution
 
 If you find an error, feel free to submit an issue or open a pull request. If you want to submit solutions for a newer exam in the course, please open a merge request and I'd be happy to merge it! 🚀
